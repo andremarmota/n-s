@@ -457,8 +457,12 @@ border-radius: 50%;
 .templatemo-contact-map {
     margin-bottom: 15px;
     height: 378px;
-
 }
+
+.templatemo-contact-map img {
+    max-width: 100%;
+}
+
 
 .head_contact {
     padding-bottom:80px; 
